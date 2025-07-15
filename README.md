@@ -1,5 +1,6 @@
 Enabling the widget:
 
+```json
 {
     "stickerpicker": {
         "content": {
@@ -15,7 +16,7 @@ Enabling the widget:
         "id": "stickerpicker"
     }
 }
-
+```
 
 # Maunium sticker picker
 A fast and simple Matrix sticker picker widget. Tested on Element Web, Android & iOS.
