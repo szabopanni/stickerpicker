@@ -1,3 +1,25 @@
+Enabling the widget:
+
+{
+    "stickerpicker": {
+        "content": {
+            "type": "m.stickerpicker",
+            "url": "https://szabopanni.github.io/stickerpicker/web/?theme=$theme",
+            "name": "Stickerpicker",
+            "creatorUserId": "@szabopanni:sztaki.hu",
+            "data": {}
+        },
+        "sender": "@szabopanni:sztaki.hu",
+        "state_key": "stickerpicker",
+        "type": "m.widget",
+        "id": "stickerpicker"
+    }
+}
+
+
+<img width="470" height="407" alt="image" src="https://github.com/user-attachments/assets/83167fe3-a0e1-405a-9864-a32e5f2119a4" />
+
+
 # Maunium sticker picker
 A fast and simple Matrix sticker picker widget. Tested on Element Web, Android & iOS.
 
